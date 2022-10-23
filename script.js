@@ -37,3 +37,5 @@ function toggle(element){
 function untoggle(element){
 element.style.transform = "scale(1)"
 }
+
+ScrollReveal().reveal('.BS-div');
